@@ -1,0 +1,90 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: #202020;
+    background: url('img/bgnt.jpeg')
+  }
+
+  /* form */
+  .center {
+    margin-top: 200px;
+    background: #fff;
+    width: 410px;
+    padding: 30px;
+    box-shadow: 0 0 8px rgba(0,0,0,0.1);
+  }
+
+  .btn {
+    background: -webkit-linear-gradient(right, #202020, #ea1001, #202020, #ea1001);
+  }
+
+  /* page1 */
+  .preview-button {
+    background: -webkit-linear-gradient(right, #202020, #ea1001, #202020, #ea1001);
+  }
+
+  .next-button {
+    background: -webkit-linear-gradient(right, #202020, #ea1001, #202020, #ea1001);
+  }
+  
+  .review-page {
+    background-color: #20202079;
+    align-items: center;
+    margin-block-start: 10px;
+    text-align: center;
+  }
+
+  .review-page h1 {
+      color: rgb(226, 226, 226);
+  }
+
+  .review-page p {
+      color: #fff;
+  }
+  
+  /* page2 */
+  .review-page2 {
+    background-color: #20202079;
+    /* width: 80%;
+    height: 350px; */
+    align-items: center;
+    text-align: center;
+  }
+  .review-page2 h1 {
+    color: rgb(226, 226, 226);
+  }
+
+  .review-page2 p {
+    color: #fff;
+  }
+
+  /* page3 */
+  .review-page3 {
+    background-color: #20202079;
+    /* width: 80%;
+    height: 350px; */
+    align-items: center;
+    text-align: center;
+  }
+
+  .review-page3 h1 {
+    color: rgb(226, 226, 226);
+  }
+
+  .review-page3 p {
+    color: #fff;
+   }
+
+  .test-append {
+    border: 1px solid rgb(238, 11, 11); 
+    background-color: honeydew;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  
+  /* .dark {
+    background-color: rgb(255, 214, 214);
+  }
+   */
